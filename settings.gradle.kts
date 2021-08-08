@@ -9,6 +9,7 @@ include(":ExtUtils")
 include(":ItemDropper")
 include(":LeftClickCast")
 include(":NeverLog")
+include(":NightmareZone")
 include(":OneClick")
 
 for (project in rootProject.children) {
